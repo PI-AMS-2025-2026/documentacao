@@ -2,7 +2,7 @@
 
 
 
-### 🗂️ Mural da Documentação
+### Mural da Documentação
 
 <p align="left">
   📗 <a href="#atualização-da-documentação">Arquivo da Documentação</a><br>
