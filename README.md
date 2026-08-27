@@ -15,7 +15,7 @@
 
 
   👤 <a>Use Case</a> disponível no repositório<br>
-  📁 <a>Diagrama de Classes</a><br>
+  📁 <a>Diagrama de Classes (Em andamento)</a><br>
 </p>
 
 ---
