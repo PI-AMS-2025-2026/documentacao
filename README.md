@@ -11,7 +11,7 @@
   <br>
   
   🎲<a>DER</a><br>
-  <img src="DER.png" alt="imagem do DER"><br>
+  <img width="2733" height="1336" alt="der" src="https://github.com/user-attachments/assets/be95ec79-2bc2-407b-bbff-01dab34d51a9" />
   *Em caso de dúvida o dicionário de dados pode ser acessado na documentação
 
 
